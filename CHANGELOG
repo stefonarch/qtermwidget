@@ -1,3 +1,8 @@
+qtermwidget-0.17.0 / unreleased
+===============================
+  * Drop support for KDE3 color scheme formats
+  * Support for different background image modes. How background images are drawn is changed and manual configuration is needed. See XXX.
+
 qtermwidget-0.16.1 / 2020-11-14
 ===============================
   * Bumped version to 0.16.1, for a point release of qterminal.
